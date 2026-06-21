@@ -1,1 +1,1 @@
-the main.py the main script of the code and the guessv1 is just something random we decided to add and it was coded in cpp 
+the main.py and main.cpp the main script of the code just main.py being the python version and main.cpp being the cpp version and the guessv1 is just something random we decided to add and it was coded in cpp 
